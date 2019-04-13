@@ -1,0 +1,57 @@
+11650  Mirror Clock
+299     Train Swapping
+10035  Primary Arithmetic
+11934  Magic Formula
+11428  Cubes
+10591  Happy Number
+11192  Group Reverse
+11541  Decoding
+11150  Cola
+10931  Parity
+10784  Diagonal
+382     Perfection
+10302  Summation of Polynomials
+494     Kindergarten Counting Game
+10222  Decode The Mad Man
+10082  WERTYU
+136    Ugly Numbers
+371      Ackermann Functions
+488    Triangle Wave
+573      The Snail
+10038   Jolly Jumpers
+10812   Beat The Spread !
+11559   Event Planning
+11764   Jumping Mario
+11799   Horror Dash
+12149   Feynman
+12289   One-Two-Three
+12293   Box Game
+12577   Hajj-e-Akbar
+12646   Zero or One
+12700   Banglawash
+11057   Exact Sum
+1124     Celebrity Jeopardy
+10018   Reverse And Add
+591       Box of Bricks
+575       Skew Binary
+10300   Ecological Premium
+294       Divisors
+406       Prime Cuts
+10235   Simply Emirp
+10474   Where Is The Marble?
+11233   Deli Deli
+272      TEX Quotes
+12704   Little Masters
+483       Word Scramble
+1585     Score
+1586     Molar Mass
+11577   Letter Frequency
+11044   Searching For Nessy
+10970   Big Chocolate
+374      Big Mod
+11879  Multiple of 17
+12279  Emoogle Balance
+11834  Elevator
+10469  To carry or not to Carry
+11364  Parking
+11900 Boiled Eggs
