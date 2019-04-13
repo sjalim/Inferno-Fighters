@@ -1,1 +1,18 @@
-Inferno Fighers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Inferno Fighers~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+My first CSE project of AUST life when i was in first year second semester(1.2).
+I coded a simple game in c++ using iGraphics library and use visual studio 2010(recommeded in case want to run) for code editing, compling & running.
+
+
+To check the codes of the game as well as play the game below step should be followed:
+1.download all the files.
+2.create a new solution file in visual studio 2010.
+3.Unrar the "images.rar" file.
+4.then paste all the header file in the project file+ "images" UnRared folder.
+5.run the project.
+
+For installing visual studio 2010 properly follow the link & checkout the presentantion1.pdf & readme:
+https://drive.google.com/open?id=1lZH-Ni7irLqGFG0JESs2XuEO-H2LN7zw
+
+
+
